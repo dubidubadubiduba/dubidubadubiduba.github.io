@@ -1,7 +1,7 @@
 # Site
-title:              Moon
+title:              Bomi's Diary
 bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        Automotive LED Sales Manager in Samsung Electronics HQ
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+facebook:           https://www.facebook.com/bomi.choi.1840
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          bbm.choi
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
